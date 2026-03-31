@@ -8,9 +8,6 @@
 
 宝塔安装go版本1.24.3
 
-![27b1630c-a533-43b7-b187-53f04621f416.png](attachment:066e47d8-d6e1-4b6d-b2bf-2f62d897fa65:27b1630c-a533-43b7-b187-53f04621f416.png)
-
-![5bbb2aef-0250-483f-a756-75152bbc0be4.png](attachment:27bee32c-d46c-4340-8fb5-cc51f7a6ec81:5bbb2aef-0250-483f-a756-75152bbc0be4.png)
 
 前端文件[dist.zip](https://github.com/heiyuan0801/09wp/releases/download/1.0/dist.zip)
 
@@ -18,7 +15,7 @@
 
 创建一个html项目
 
-![dd679234-deb8-4321-8c1d-74ca1ec0364b.png](attachment:75005118-98fd-401a-a3d2-df2fbe4f1a92:dd679234-deb8-4321-8c1d-74ca1ec0364b.png)
+
 
 设置宝塔伪静态
 
