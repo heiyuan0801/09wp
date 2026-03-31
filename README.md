@@ -1,7 +1,7 @@
 # 09网盘安装教程
 
  详细教程
- <iframe src="https://caramel-crepe-193.notion.site/ebd//3346606232bb800296dbdb63d5708f15" width="100%" height="600" frameborder="0" allowfullscreen />
+ 查看https://caramel-crepe-193.notion.site/09-3346606232bb800296dbdb63d5708f15?source=copy_link
 
 [**config.json](https://github.com/heiyuan0801/09wp/releases/download/1.0/config.json)和[dfan-netdisk-backend-server-linux-amd64](https://github.com/heiyuan0801/09wp/releases/download/1.0/dfan-netdisk-backend-server-linux-amd64)**
 
